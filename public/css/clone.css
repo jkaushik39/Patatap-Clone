@@ -1,0 +1,25 @@
+canvas{
+	width: 100%;
+	height: 100%;
+	background-color: black;
+}
+
+body, html{
+	height: 100%;
+	margin: 0;
+}
+
+#rules {
+	color: white; 
+	position: absolute; 
+	/* z-index: -1000;  */
+	background-color: black;
+	text-align: center !important;
+	margin-left: 40vw;
+	margin-right: 40vw;
+
+	/* align-items: center;
+	margin-left: auto;
+	margin-right: auto;
+	display: block; */
+}
